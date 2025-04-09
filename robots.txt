@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://violavigilante.github.io/music-1701-example/sitemap.xml

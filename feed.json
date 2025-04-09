@@ -1,0 +1,13 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Example MUSIC 1701 Project",
+    "description": "",
+    "home_page_url": "https://violavigilante.github.io/music-1701-example",
+    "feed_url": "https://violavigilante.github.io/music-1701-example/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Nic Vigilante"
+    },
+    "items": [
+    ]
+}

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="https://violavigilante.github.io/music-1701-example/sitemap.xsl"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+<url>
+<loc>https://violavigilante.github.io/music-1701-example/</loc>
+</url>
+<url>
+<loc>https://violavigilante.github.io/music-1701-example/bibliography.html</loc>
+<lastmod>2025-04-09T12:28:57-04:00</lastmod>
+</url>
+<url>
+<loc>https://violavigilante.github.io/music-1701-example/critical-reading-assignment.html</loc>
+<lastmod>2025-04-09T12:28:33-04:00</lastmod>
+</url>
+<url>
+<loc>https://violavigilante.github.io/music-1701-example/final-essay.html</loc>
+<lastmod>2025-04-09T12:28:50-04:00</lastmod>
+</url>
+<url>
+<loc>https://violavigilante.github.io/music-1701-example/introduction.html</loc>
+<lastmod>2025-04-09T12:50:46-04:00</lastmod>
+<image:image>
+<image:loc>https://violavigilante.github.io/music-1701-example/media/posts/2/gallery/namroud-gorguis-FZWivbri0Xk-unsplash-thumbnail.jpg</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://violavigilante.github.io/music-1701-example/media/posts/2/gallery/marius-masalar-rPOmLGwai2w-unsplash-thumbnail.jpg</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://violavigilante.github.io/music-1701-example/media/posts/2/gallery/IMG_20220104_152943853-thumbnail.jpg</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://violavigilante.github.io/music-1701-example/media/posts/2/robert-katzki-jbtfM0XBeRc-unsplash.jpg</image:loc>
+<image:title><![CDATA[Rainbow doorways]]></image:title>
+</image:image>
+</url>
+<url>
+<loc>https://violavigilante.github.io/music-1701-example/music-review.html</loc>
+<lastmod>2025-04-09T12:28:38-04:00</lastmod>
+</url>
+<url>
+<loc>https://violavigilante.github.io/music-1701-example/playlist-and-listening-guide.html</loc>
+<lastmod>2025-04-09T12:28:46-04:00</lastmod>
+</url>
+</urlset>
